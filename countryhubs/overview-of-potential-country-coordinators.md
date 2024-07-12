@@ -23,4 +23,4 @@ description: >-
 | Croatia               |                            |                                  |
 | Spain                 | X (DM) - Cardano Hotel     | Alfred Moesker                   |
 | Spain                 | ... ?                      | 2nd coordinator in clarification |
-
+| Bulgaria              | LeBlanc [MEDA🌌]          | Martin                          |
